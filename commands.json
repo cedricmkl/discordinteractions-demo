@@ -1,0 +1,8 @@
+[{
+    "name":"hello",
+    "description": "Hello World!"
+},
+{
+    "name":"quote",
+    "description": "Random quote"
+}]
